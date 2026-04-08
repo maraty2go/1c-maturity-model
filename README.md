@@ -98,7 +98,7 @@ cd 1c-maturity-model
 - [Модель зрелости для команд 1С](https://habr.com/ru/companies/ru_mts/articles/1020400/) (2026)
 
 <a href="https://infostart.ru/">
-  <img src="assets/img/infostart-logo.svg" alt="Infostart" height="24" style="vertical-align: middle;" />
+  <img src="https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg" alt="Infostart" height="24" style="vertical-align: middle;" />
 </a>
 
 - [Модель зрелости для команд 1С](https://infostart.ru/1c/articles/2661174/) (2026)
