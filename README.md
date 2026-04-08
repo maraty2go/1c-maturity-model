@@ -92,8 +92,15 @@ cd 1c-maturity-model
 ## 📖 Публикации
 
 Подробнее о методологии можно прочитать в статьях:
-- [От Agile до SRE: полный цикл современной разработки на 1С в МТС](https://habr.com/ru/companies/ru_mts/articles/1010514/) (Хабр, 2026)
-- [Модель зрелости для команд 1С](https://habr.com/ru/companies/ru_mts/articles/1020400/)  (Хабр, 2026)
+
+**Хабр**
+- [От Agile до SRE: полный цикл современной разработки на 1С в МТС](https://habr.com/ru/companies/ru_mts/articles/1010514/) (2026)
+- [Модель зрелости для команд 1С](https://habr.com/ru/companies/ru_mts/articles/1020400/) (2026)
+
+<a href="https://infostart.ru/1c/articles/2661174/">
+  <img src="assets/img/infostart-logo.svg" alt="Infostart" height="24" style="vertical-align: middle;" />
+  Модель зрелости для команд 1С (2026)
+</a>
 
 ---
 
